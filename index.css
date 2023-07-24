@@ -1,0 +1,20 @@
+		.button {
+			color: rgb(25, 118, 210);
+			border-color: rgb(25, 118, 210);
+			font-family: Roboto, Helvetica, Arial, sans-serif;
+            font-weight: 500;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            padding: 5px 15px;
+            background-color: white;
+        border: 1px solid rgba(25, 118, 210, 0.5);
+         border-radius: 4px;
+         width: fit-content;
+         margin-top: 6px 
+
+	}
+	.button:hover {
+		cursor: pointer;
+		border: 1px solid rgb(25, 118, 210);
+		background-color:rgba(25, 118, 210, 0.04);
+	}
